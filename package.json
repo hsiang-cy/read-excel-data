@@ -1,9 +1,26 @@
 {
-  "name": "red-read-excel-data",
+  "name": "read-excel-data",
   "version": "0.0.1",
-  "description": "",
+  "description": "A lightweight and simple Node.js library for reading Excel files",
   "type": "module",
   "main": "index.js",
+  "author": "Sean Chen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/red-read-excel-data.git"
+  },
+  "homepage": "https://github.com/yourusername/red-read-excel-data#readme",
+  "files": [
+    "index.js",
+    "tools/*.js",
+    "tools/*.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "keywords": [
     "excel",
     "xlsx",

@@ -1,1 +1,1 @@
-export { Table } from './tools/xlsxReader.js';
+export { Red } from './tools/xlsxReader.js';

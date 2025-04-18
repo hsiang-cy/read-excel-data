@@ -1,13 +1,6 @@
-/*
- * @Author:Sean Chen
- * @Date:2025-04-18 16:07:23
- * @LastEditors:Sean Chen
- * @LastEditTime:2025-04-18 16:07:23
- * @Description:
- */
 import { unzipSync } from './unzipsync.js';
 
-export class Table {
+export class Red {
     /**
      * Get all sheet names from Excel file
      * @param buffer Excel file buffer

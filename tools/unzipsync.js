@@ -1,3 +1,4 @@
+// ↓↓↓↓↓↓ This section of code is from the fflate library. ↓↓↓↓↓↓
 const u8 = Uint8Array, u16 = Uint16Array, i32 = Int32Array;
 const err = (m) => { throw new Error(m); };
 const b2 = (d, b) => d[b] | (d[b + 1] << 8);

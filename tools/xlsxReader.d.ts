@@ -5,7 +5,7 @@ export interface SheetData {
 /**
  * Excel spreadsheet handler
  */
-export declare class Table {
+export declare class Red {
     /**
      * Get all sheet names from Excel file
      * @param buffer Excel file buffer

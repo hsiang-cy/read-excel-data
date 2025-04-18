@@ -1,0 +1,1 @@
+export { Red } from './tools/xlsxReader.js';

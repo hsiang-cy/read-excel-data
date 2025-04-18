@@ -1,0 +1,46 @@
+{
+  "name": "read-excel-data",
+  "version": "0.0.16",
+  "description": "A lightweight and simple Node.js library for reading Excel files",
+  "type": "module",
+  "main": "index.js",
+  "author": "Sean Chen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsiang-cy/read-excel-data.git"
+  },
+  "homepage": "https://github.com/hsiang-cy/read-excel-data#readme",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "tools/*.js",
+    "tools/*.d.ts",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "lightweight",
+    "< 30 kb",
+    "no-dependencies",
+    "excel",
+    "xlsx",
+    "spreadsheet",
+    "excel-reader",
+    "excel-parser",
+    "node-xlsx",
+    "read-excel",
+    "readexcel",
+    "worksheet"
+  ],
+  "devDependencies": {
+    "@types/node": "^22.15.3"
+  }
+}

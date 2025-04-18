@@ -1,0 +1,14 @@
+{
+  "name": "red-read-excel-data",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "excel",
+    "xlsx",
+    "spreadsheet",
+    "parser",
+    "reader"
+  ]
+}

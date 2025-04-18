@@ -1,0 +1,1 @@
+export { Table } from './tools/xlsxReader.js';

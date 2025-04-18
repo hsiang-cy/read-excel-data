@@ -1,6 +1,6 @@
 {
   "name": "read-excel-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A lightweight and simple Node.js library for reading Excel files",
   "type": "module",
   "main": "index.js",
